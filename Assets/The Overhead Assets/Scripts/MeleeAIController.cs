@@ -26,9 +26,8 @@ public class MeleeAIController : MonoBehaviour
         for (;;)
         {
             Vector3 distance = player.position - transform.position ;
-            //float distance = Vector2.Distance(transform.position, player.position);
+
             float sqrLen = distance.sqrMagnitude;
-            print(sqrLen);
             isActivated = sqrLen <= 200;
             isGoing = sqrLen <= 50;
             isAttack = sqrLen <= 20;
@@ -52,7 +51,6 @@ public class MeleeAIController : MonoBehaviour
             if (isAttack)
             {
                 moveController.Attack(isAttack);
-                print("I AM ATTACK");
             }
 
 
