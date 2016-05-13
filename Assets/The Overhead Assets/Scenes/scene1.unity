@@ -333,6 +333,19 @@ Prefab:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 21242054, guid: c2200a6faa002bf4b9dc9f0555fbfa09, type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6ee19bc0b288d3848a89aec34e8576d6,
+        type: 3}
+    - target: {fileID: 9570560, guid: c2200a6faa002bf4b9dc9f0555fbfa09, type: 2}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 823a007cc3ab788448323bfb33e62ae9, type: 2}
+    - target: {fileID: 21242054, guid: c2200a6faa002bf4b9dc9f0555fbfa09, type: 2}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11477172, guid: c2200a6faa002bf4b9dc9f0555fbfa09, type: 2}
     - {fileID: 11432310, guid: c2200a6faa002bf4b9dc9f0555fbfa09, type: 2}
