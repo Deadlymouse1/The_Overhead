@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: da872bc19f183704f8ab8d3d582ace09
-timeCreated: 1463153860
+timeCreated: 1463214291
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -65,16 +65,12 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -6, y: 27.5}
-        - {x: -6, y: -1.5}
-        - {x: -12, y: -3.5}
-        - {x: -25, y: -12.5}
-        - {x: -25, y: -23.5}
-        - {x: -23, y: -27.5}
-        - {x: 18, y: -27.5}
-        - {x: 25, y: -21.5}
-        - {x: 25, y: 25.5}
-        - {x: 23, y: 27.5}
+      - - {x: -25, y: 27.5}
+        - {x: -25, y: -25.5}
+        - {x: -21, y: -27.5}
+        - {x: 25, y: -27.5}
+        - {x: 25, y: -3.5}
+        - {x: 9, y: 27.5}
     - name: Snake-attack_1
       rect:
         serializedVersion: 2
@@ -86,14 +82,13 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 32, y: 24.5}
-        - {x: 28, y: 27.5}
-        - {x: 5, y: 27.5}
-        - {x: -32, y: -21.5}
-        - {x: -32, y: -27.5}
-        - {x: 13, y: -27.5}
-        - {x: 23, y: -12.5}
-        - {x: 32, y: 6.5}
+      - - {x: -30, y: 27.5}
+        - {x: -32, y: 24.5}
+        - {x: -32, y: -1.5}
+        - {x: -16, y: -27.5}
+        - {x: 32, y: -27.5}
+        - {x: 32, y: -5.5}
+        - {x: 6, y: 27.5}
     - name: Snake-attack_2
       rect:
         serializedVersion: 2
@@ -105,14 +100,12 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 37.5, y: 18}
-        - {x: -11.5, y: 18}
-        - {x: -47.5, y: -5}
-        - {x: -47.5, y: -16}
-        - {x: -46.5, y: -18}
-        - {x: 8.5, y: -18}
-        - {x: 47.5, y: -16}
-        - {x: 47.5, y: 14}
+      - - {x: -47.5, y: 18}
+        - {x: -47.5, y: -15}
+        - {x: -45.5, y: -18}
+        - {x: 47.5, y: -18}
+        - {x: 47.5, y: -4}
+        - {x: 32.5, y: 18}
     - name: Snake-attack_3
       rect:
         serializedVersion: 2
@@ -124,14 +117,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 6, y: 16}
-        - {x: 4, y: 15}
-        - {x: -28, y: 9}
-        - {x: -46, y: -2}
-        - {x: -46, y: -16}
-        - {x: 46, y: -16}
-        - {x: 46, y: 8}
-        - {x: 35, y: 16}
+      - - {x: -39, y: 16}
+        - {x: -46, y: 11}
+        - {x: -46, y: -14}
+        - {x: -37, y: -13}
+        - {x: -5, y: -16}
+        - {x: 34, y: -16}
+        - {x: 46, y: -13}
+        - {x: 46, y: 5}
+        - {x: 26, y: 16}
     outline: []
   spritePackingTag: 
   userData: 
