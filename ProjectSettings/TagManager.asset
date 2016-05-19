@@ -16,6 +16,7 @@ TagManager:
   - Enemy2
   - Enemy
   - Edge
+  - EnemyGroundCheck
   layers:
   - Default
   - TransparentFX
@@ -31,7 +32,7 @@ TagManager:
   - Pickups
   - Ground
   - Background Image
-  - 
+  - Enemy
   - 
   - 
   - 
